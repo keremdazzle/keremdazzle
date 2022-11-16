@@ -2,10 +2,10 @@
 
 ## Hello there 👋
 :tada: My Profession
-> ```Backend```
+> ```Frontend```
 
 :telescope: My Favorite Language
-> ```Javascript```
+> ```Python```
 
 :comet: Languages I'm working with.
 ```ts

@@ -13,7 +13,6 @@ const myWorkLanguages = [
   "HTML",
   "CSS",
   "JavaScript",
-  "GoLang", 
   "Python" 
 ];
 ```

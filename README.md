@@ -5,7 +5,7 @@
 > ```Frontend```
 
 :telescope: My Favorite Language
-> ```Python```
+> ```Javascript```
 
 :comet: Languages I'm working with.
 ```ts

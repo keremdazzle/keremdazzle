@@ -2,7 +2,7 @@
 
 ## Hello there 👋
 :tada: My Profession
-> ```Frontend```
+> ```Backend```
 
 :telescope: My Favorite Language
 > ```Javascript```
@@ -16,3 +16,7 @@ const myWorkLanguages = [
   "Python" 
 ];
 ```
+
+:sparkles: My Stats
+
+!["Stat"](https://github-readme-stats.vercel.app/api/top-langs/?username=noneduck)

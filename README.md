@@ -2,7 +2,7 @@
 
 ## Hello there 👋
 :tada: My Profession
-> ```Backend```
+> ```Frontend```
 
 :telescope: My Favorite Language
 > ```Javascript```

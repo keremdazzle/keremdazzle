@@ -20,6 +20,6 @@ const myWorkLanguages = [
 :sparkles: My Stats
 
   <p>
-        <a href="https://github.com/noneduck/"><img alt="None's Github Stats" src="https://github-readme-stats.vercel.app/api?username=noneduck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/noneduck"><img alt="None's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noneduck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/keremduck/"><img alt="Kerem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keremduck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/keremduck"><img alt="Kerem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremduck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <p/>
